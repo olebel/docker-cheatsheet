@@ -4,10 +4,11 @@ Layout
 ----
 1. All tasks located in `Tasks` folder in this repository
 2. `Tasks\COMMON.md` - contain command related tasks.
+3. `Task\DOCKERFILE.md` - contains Dockerfile Tasks
+4. `Task\COMPOSE.md` - contains docker-composer tasks.
 
 Answers
 ----
-1. Link to your GL gitlab or github public repository
-2. COMMON_ANSWERS.md file in repository root
-3. Put answers into COMMON_ANSWERS.md file.
-4. Use template in this repository: `Tasks\COMMON_ANSWERS_TEMPLATE.md`
+0. Send links to your github repository to oleg.beletskyi@globallogic.com
+1. Supply your solutions with short README describing task and commenting solution.
+2.  
